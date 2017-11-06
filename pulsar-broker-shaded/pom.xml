@@ -41,8 +41,6 @@ under the License.
     </dependency>
   </dependencies>
 
-
-
 <build>
     <plugins>
       <plugin>
