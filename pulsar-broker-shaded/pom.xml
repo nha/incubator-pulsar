@@ -61,6 +61,8 @@ under the License.
               <artifactSet>
                 <includes>
                   <include>org.apache.pulsar:pulsar-broker</include>
+                  <include>org.apache.pulsar:pulsar-zookeeper-utils</include>
+
                   <include>org.apache.commons:commons-lang3</include>
                   <include>commons-codec:commons-codec</include>
                   <include>commons-collections:commons-collections</include>
@@ -83,6 +85,7 @@ under the License.
                   <include>org.apache.pulsar:pulsar-checksum</include>
                   <include>net.jpountz.lz4:lz4</include>
                   <include>com.yahoo.datasketches:sketches-core</include>
+
                 </includes>
               </artifactSet>
               <filters>
