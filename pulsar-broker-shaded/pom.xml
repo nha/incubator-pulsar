@@ -23,7 +23,7 @@ under the License.
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.apache.pulsar</groupId>
+    <groupId>nicolas-ha.com</groupId>
     <artifactId>pulsar</artifactId>
     <version>1.21.0-incubating-SNAPSHOT</version>
     <relativePath>..</relativePath>
