@@ -91,6 +91,8 @@ under the License.
                   <include>com.google.guava:guava</include>
                   <include>com.google.code.gson:gson</include>
                   <include>com.fasterxml.jackson.core</include>
+                  <include>com.fasterxml.jackson.jaxrs:jackson-jaxrs-base</include>
+                  <include>com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider</include>
                   <include>io.netty:netty</include>
                   <include>io.netty:netty-all</include>
                   <include>org.apache.pulsar:pulsar-common</include>
