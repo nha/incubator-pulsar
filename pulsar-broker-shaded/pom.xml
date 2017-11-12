@@ -63,13 +63,18 @@ under the License.
                   <include>org.apache.pulsar:pulsar-broker</include>
                   <include>org.apache.pulsar:pulsar-zookeeper-utils</include>
                   <include>org.apache.pulsar:managed-ledger</include>
+                  <include>org.apache.pulsar:pulsar-common</include>
+                  <include>org.apache.pulsar:pulsar-broker-common</include>
                   <include>org.apache.bookkeeper:bookkeeper-server</include>
                   <include>org.apache.bookkeeper.stats:bookkeeper-stats-api</include>
                   <include>commons-configuration:commons-configuration</include>
                   <include>commons-lang:commons-lang</include>
                   <include>commons-logging:commons-logging</include>
                   <include>commons-digester:commons-digester</include>
-
+                  <include>commons-cli:commons-cli</include>
+                  <include>commons-io:commons-io</include>
+                  <include>commons-beanutils:commons-beanutils-core</include>
+                  <include>commons-beanutils:commons-beanutils</include>
                   <include>org.apache.commons:commons-lang3</include>
                   <include>commons-codec:commons-codec</include>
                   <include>commons-collections:commons-collections</include>
