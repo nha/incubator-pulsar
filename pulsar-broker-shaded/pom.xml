@@ -68,8 +68,7 @@ under the License.
                   <include>org.apache.pulsar:pulsar-client-original</include>
                   <include>org.apache.pulsar:pulsar-client-admin</include>
                   <!-- <include>org.apache.zookeeper:zookeeper</include> -->
-
-
+                  <include>com.google.guava:guava</include>
                   <include>org.apache.pulsar:pulsar-broker-common</include>
                   <include>org.apache.bookkeeper:bookkeeper-server</include>
                   <include>org.apache.bookkeeper.stats:bookkeeper-stats-api</include>
