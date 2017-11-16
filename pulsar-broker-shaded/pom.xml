@@ -64,6 +64,7 @@ under the License.
                   <include>org.apache.pulsar:pulsar-zookeeper-utils</include>
                   <include>org.apache.pulsar:managed-ledger</include>
                   <include>org.apache.pulsar:pulsar-common</include>
+                  <include>org.apache.pulsar:pulsar-client</include>
                   <include>org.apache.pulsar:pulsar-broker-common</include>
                   <include>org.apache.bookkeeper:bookkeeper-server</include>
                   <include>org.apache.bookkeeper.stats:bookkeeper-stats-api</include>
